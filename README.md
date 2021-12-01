@@ -1,4 +1,3 @@
-﻿<!DOCTYPE html>
 <head>
 <title>NeelTeluguTech</title>
 </head>
@@ -32,4 +31,3 @@ src="https://www.youtube.com/embed/Ug4LYLfq9Q8">
 <credit>Copyright©NeelTeluguTech . Desgined By MannaYuvatha .</credit>
 </footer>
 </body>
-</html>
