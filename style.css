@@ -1,18 +1,19 @@
-﻿
-*{
+﻿*{
 margin:0px;
 paddin:0px;
 }
 body{
+margin:0px;
+padding:0px;
 text-align:center;
-background-image:url("bg.jpg")
+background-image:url("bg2.jpg")
+
 }
 header{
 margin:3px;
 }
 nav{
-background-color:lightblue;	
-}
+background-image:url("bg2.jpg")}
 h2{
 color:black;
 margin:2px;
@@ -54,7 +55,7 @@ overflow:hidden;
 }
 section h2{
 color:black;
-background-color:lightblue;
+background-image:url("bg2.jpg");
 overflow:auto;
 }
 button {
@@ -110,8 +111,7 @@ a:active {
 }
 
 footer{	
-background-color:lightblue;
-	color:black;
+background-image:url("bg2.jpg")color:black;
 	border-width:5px;
 	border-style:double;
 	
