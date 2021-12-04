@@ -12,7 +12,7 @@
 <li><a href="about.html">About Us</a></li>
 <li><a href="partners.html">Our Creations</a></li>
 <li><a href="form.html">Contact Us</a></li>
-<li><a href="">Site Information</a></li>
+<li><a href="uploader.html">Upload Apps</a></li>
 </ul>
 </nav>
 </hgroup>
