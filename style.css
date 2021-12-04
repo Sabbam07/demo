@@ -1,6 +1,7 @@
 ﻿*{
 margin:0px;
 paddin:0px;
+background:blur;
 }
 body{
 margin:0px;
@@ -13,7 +14,14 @@ header{
 margin:3px;
 }
 nav{
-background-image:url("bg2.jpg")}
+background-image:url("bg2.jpg")
+margin:2px;
+}
+h1{
+color:black;
+margin:2px;
+}
+
 h2{
 color:black;
 margin:2px;
@@ -30,7 +38,7 @@ padding:10px;
 float:left;
 color:black;
 border-style:solid;
-border-color:blue;
+border-color:black;
 border-width:2px;
 margin:2px;
 }
