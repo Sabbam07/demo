@@ -30,29 +30,29 @@ margin:2px;
 /* Set a specific color for each brand */
 
 /* Facebook */
-.fa-facebook {
+fa-facebook {
   background: #3B5998;
   color: white;
 }
 
 /* Twitter */
-.fa-twitter {
+fa-twitter {
   background: #55ACEE;
   color: white;
 }
-.fa-instagram {
+fa-instagram {
   background:#fb3958;
   color: white;
 }
-.fa-youtube {
+fa-youtube {
   background:red;
   color: white;
 }
-.fa-github {
+fa-github {
   background:black;
   color: white;
 }
-.fa-linkedin {
+fa-linkedin {
   background:darkblue;
   color: white;
 }
